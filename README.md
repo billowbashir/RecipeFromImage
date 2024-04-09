@@ -21,6 +21,8 @@ Install the following prerequisites:
 <br>This project uses **TensorFlow v2.8.0**. For TensorFlow to work, you must install a correct version of Python on your machine. More information [here](https://www.tensorflow.org/install/source#tested_build_configurations).
 2. [Node.js](https://nodejs.org/en/)
 3. [Visual Studio Code](https://code.visualstudio.com/download)
+4. [training datasets](https://www.kaggle.com/datasets/moltean/fruits/data).
+   ### the training datasets folders train, test and validation should be in the root folder
 
 
 ### Installation
